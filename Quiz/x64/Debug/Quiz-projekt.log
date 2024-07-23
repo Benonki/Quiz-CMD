@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\Dom\Desktop\Quiz-projekt\Quiz-projekt\Quiz-projekt\main.c(175,11): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Dom\Desktop\Quiz-projekt\Quiz-projekt\Quiz-projekt\main.c(322,14): warning C4013: niezdefiniowany "wybierz_opcje"; przy założeniu, że extern zwraca int
+C:\Users\Dom\Desktop\Quiz-projekt\Quiz-projekt\Quiz-projekt\main.c(424,13): warning C4013: niezdefiniowany "kbhit"; przy założeniu, że extern zwraca int
+C:\Users\Dom\Desktop\Quiz-projekt\Quiz-projekt\Quiz-projekt\main.c(453,9): warning C4013: niezdefiniowany "Sleep"; przy założeniu, że extern zwraca int
+C:\Users\Dom\Desktop\Quiz-projekt\Quiz-projekt\Quiz-projekt\main.c(501,13): warning C4013: niezdefiniowany "getch"; przy założeniu, że extern zwraca int
+C:\Users\Dom\Desktop\Quiz-projekt\Quiz-projekt\Quiz-projekt\main.c(771,52): warning C4020: "pokaz_wyniki": zbyt wiele parametrów rzeczywistych
+C:\Users\Dom\Desktop\Quiz-projekt\Quiz-projekt\Quiz-projekt\main.c(787,11): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Quiz-projekt.vcxproj -> C:\Users\Dom\Desktop\Quiz-projekt\Quiz-projekt\x64\Debug\Quiz-projekt.exe
