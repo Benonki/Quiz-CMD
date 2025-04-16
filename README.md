@@ -10,7 +10,7 @@ A game in C in CMD in which we can play a quiz known to us from Millionaires or 
     ```
 2. Open project in VS (2022 for example) and run the project.
 
-## Showcase
+## 🖼️ Showcase
 
 <div align="center">
   <img src="https://github.com/Benonki/Portfolio/blob/main/StronaGlowna/sc/quiz.png" alt="Preview of My Project">
