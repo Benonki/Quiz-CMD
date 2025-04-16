@@ -2,7 +2,7 @@
 
 A game in C in CMD in which we can play a quiz known to us from Millionaires or other game shows of this type, we have many different questions of different areas and levels of difficulty, we can also create our own questions that can then be played.
 
-## Setup
+## ⚙️ Setup
 
 1. Clone the repository:
     ```bash
